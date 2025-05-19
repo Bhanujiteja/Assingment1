@@ -1,0 +1,9 @@
+sentence-transformers
+langchain
+pypdf
+langchain-community
+langchain_huggingface
+faiss-cpu
+sumy
+streamlit
+sentencepiece
